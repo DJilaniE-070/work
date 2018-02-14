@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "970909093920",
+    "firebase_url": "https://app-voor-bedrijf.firebaseio.com",
+    "project_id": "app-voor-bedrijf",
+    "storage_bucket": "app-voor-bedrijf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970909093920:android:24b36e1c808c3527",
+        "android_client_info": {
+          "package_name": "com.otten.ottensgroentenenfruit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970909093920-j2nrq738vpcdos5ib29h8dfdp0tgk4rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoE8oTtqc0oy_j0VTcIZXw4wiFFtV9fYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

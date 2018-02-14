@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Otten\'s Groenten en Fruithandel</string>
+    <string name="launcher_name">@string/app_name</string>
+    <string name="activity_name">@string/launcher_name</string>
+    
+    <string name="google_app_id">1:970909093920:android:24b36e1c808c3527</string>
+    <string name="google_api_key">AIzaSyBoE8oTtqc0oy_j0VTcIZXw4wiFFtV9fYk</string>
+</resources>
