@@ -1,0 +1,16 @@
+button.infobutton{
+    /*/*background-color: #4CAF50; /* Green */
+    /*border: none;
+    padding: 15px 32px;
+    color: blue;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;**/
+    display: block;
+    vertical-align: top;
+}
+
+.home{
+  width: 25px;
+}
