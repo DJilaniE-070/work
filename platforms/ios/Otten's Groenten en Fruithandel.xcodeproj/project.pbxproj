@@ -16,22 +16,22 @@
 		3047A5131AB8059700498E2A /* build-release.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 3047A5101AB8059700498E2A /* build-release.xcconfig */; };
 		3047A5141AB8059700498E2A /* build.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 3047A5111AB8059700498E2A /* build.xcconfig */; };
 		6AFF5BF91D6E424B00AB3073 /* CDVLaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AFF5BF81D6E424B00AB3073 /* CDVLaunchScreen.storyboard */; };
-		8C8B7A17D9DB4F6B99264EA0 /* AppDelegate+FirebasePlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = DEBBB57F14A14EAD9E0EE8CE /* AppDelegate+FirebasePlugin.m */; };
-		3658AED3B21B4BF3949208BC /* FirebasePlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D287C756AEE4846A7239BD0 /* FirebasePlugin.m */; };
-		F864D601C24C439D8508034C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3A17DF6A7DA441A69C2F334D /* GoogleService-Info.plist */; };
-		AC15802CEA6C47EEB5FD102B /* FirebaseAnalytics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B2EF85F366694665ACE2B33D /* FirebaseAnalytics.framework */; };
-		A4C6B6E285BF4A6F90E4465F /* FirebaseCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4111F86F3F6847549B37E13C /* FirebaseCore.framework */; };
-		BD00C33716A34C78912EA9E0 /* FirebaseCoreDiagnostics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC23A630D404473881A98E21 /* FirebaseCoreDiagnostics.framework */; };
-		97D08F0D70FB42F9989E7156 /* FirebaseInstanceID.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ABAC15607BC1418DB46F8E8C /* FirebaseInstanceID.framework */; };
-		E8CA4AD7C3FC44F59ED94657 /* FirebaseNanoPB.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CF7248F14C2946B6B44ED1BD /* FirebaseNanoPB.framework */; };
-		AB634351E2894F54AFD54C42 /* GoogleToolboxForMac.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 297E13B768EB4F56AEFDBABD /* GoogleToolboxForMac.framework */; };
-		DB410DA103214054A1D1E35A /* Protobuf.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A1A449648D7144F9BCCD3BF8 /* Protobuf.framework */; };
-		B417026212B94B319FC85076 /* FirebaseMessaging.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A12947481FE4C3DA8CCA259 /* FirebaseMessaging.framework */; };
-		AA4975D84F6243D58951DB09 /* FirebaseCrash.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 012F812A034141BB810863B9 /* FirebaseCrash.framework */; };
-		34A327476ACC46B08D9754CD /* FirebaseRemoteConfig.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 244BC1A219114027B53D08C8 /* FirebaseRemoteConfig.framework */; };
-		34112F0B1D184C3DB3441353 /* FirebaseAuth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 975D744ACEEB49998E879F6A /* FirebaseAuth.framework */; };
-		C21FD9BC0C994B4BA4C9FCE0 /* GTMSessionFetcher.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2652FDE128F543EEA6CA350C /* GTMSessionFetcher.framework */; };
-		65EB17244E724AE3805E1E59 /* CDVInAppBrowser.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F96E738F0AE4972B7A94D2C /* CDVInAppBrowser.m */; };
+		C93F21321CBB4EEE83794174 /* AppDelegate+FirebasePlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 877E12927EF549B0A3CA1D58 /* AppDelegate+FirebasePlugin.m */; };
+		F560175A79B44707A0E9428C /* FirebasePlugin.m in Sources */ = {isa = PBXBuildFile; fileRef = 716E2771A9FF48A59F6F7FC3 /* FirebasePlugin.m */; };
+		38105A8239B9428C8273A987 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EC2BEC5A4C5C450C8BB4A9BD /* GoogleService-Info.plist */; };
+		C620F6B20C4D47898F63CDF4 /* FirebaseAnalytics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 26899769B3AB4E5ABA41BA9F /* FirebaseAnalytics.framework */; };
+		4745AC4AD2D24590B5507643 /* FirebaseCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA34B66851074DEC93147EAE /* FirebaseCore.framework */; };
+		58DB555A8233430CAA9C589D /* FirebaseCoreDiagnostics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EB0C918F7F44D739F9F6B60 /* FirebaseCoreDiagnostics.framework */; };
+		D0C2A61964F4446C9F4E9E4A /* FirebaseInstanceID.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E96ECECD56F4836AC8CC211 /* FirebaseInstanceID.framework */; };
+		FD2F3BF121DE4367B1ACA9F5 /* FirebaseNanoPB.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B32FAD553A25473CB04119B6 /* FirebaseNanoPB.framework */; };
+		9D6189F95E9E4F0B84120EEE /* GoogleToolboxForMac.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9DA2E78A5C8B45BCBF80C94F /* GoogleToolboxForMac.framework */; };
+		CFCDC8DF5AC843878C73D186 /* Protobuf.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2D3463C703940A289461281 /* Protobuf.framework */; };
+		E2C6D259C4914FED97AEB5CF /* FirebaseMessaging.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7E13AEAA93954AF19D8AE95F /* FirebaseMessaging.framework */; };
+		A3FBB884C5014F969A6C2870 /* FirebaseCrash.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6DA943C840AD4BAB854018B6 /* FirebaseCrash.framework */; };
+		7AF1F88DC11C441C8AE732A8 /* FirebaseRemoteConfig.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5D262F6915934F44B831C0CF /* FirebaseRemoteConfig.framework */; };
+		80685B08E6A041E7BBD57CAE /* FirebaseAuth.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DEA0483ADEB14EC3B0178566 /* FirebaseAuth.framework */; };
+		E5A4EE45AB3E48E5A49E704C /* GTMSessionFetcher.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C2131F40EFB414F9BD7A3D2 /* GTMSessionFetcher.framework */; };
+		7094AC8B9B3A465DBF87613A /* CDVInAppBrowser.m in Sources */ = {isa = PBXBuildFile; fileRef = EB36CF4EF8FB4E15BDEE8730 /* CDVInAppBrowser.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,26 +72,26 @@
 		EB87FDF41871DAF40020F90C /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = ../../config.xml; sourceTree = "<group>"; };
 		F840E1F0165FE0F500CFE078 /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = "Otten's Groenten en Fruithandel/config.xml"; sourceTree = "<group>"; };
 		ED33DF2A687741AEAF9F8254 /* Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "Bridging-Header.h"; path = "Bridging-Header.h"; sourceTree = "<group>"; };
-		DEBBB57F14A14EAD9E0EE8CE /* AppDelegate+FirebasePlugin.m */ = {isa = PBXFileReference; name = "AppDelegate+FirebasePlugin.m"; path = "cordova-plugin-firebase/AppDelegate+FirebasePlugin.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		7D287C756AEE4846A7239BD0 /* FirebasePlugin.m */ = {isa = PBXFileReference; name = "FirebasePlugin.m"; path = "cordova-plugin-firebase/FirebasePlugin.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		63C2E976964647A9910FFBD5 /* AppDelegate+FirebasePlugin.h */ = {isa = PBXFileReference; name = "AppDelegate+FirebasePlugin.h"; path = "cordova-plugin-firebase/AppDelegate+FirebasePlugin.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		FC161A5502294A45B13DDB71 /* FirebasePlugin.h */ = {isa = PBXFileReference; name = "FirebasePlugin.h"; path = "cordova-plugin-firebase/FirebasePlugin.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		EEAE72BE744A40D1863D8A36 /* Firebase.h */ = {isa = PBXFileReference; name = "Firebase.h"; path = "cordova-plugin-firebase/Firebase.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
-		3A17DF6A7DA441A69C2F334D /* GoogleService-Info.plist */ = {isa = PBXFileReference; name = "GoogleService-Info.plist"; path = "GoogleService-Info.plist"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = text.plist.xml; explicitFileType = undefined; includeInIndex = 0; };
-		B2EF85F366694665ACE2B33D /* FirebaseAnalytics.framework */ = {isa = PBXFileReference; name = "FirebaseAnalytics.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseAnalytics.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
-		4111F86F3F6847549B37E13C /* FirebaseCore.framework */ = {isa = PBXFileReference; name = "FirebaseCore.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseCore.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
-		AC23A630D404473881A98E21 /* FirebaseCoreDiagnostics.framework */ = {isa = PBXFileReference; name = "FirebaseCoreDiagnostics.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseCoreDiagnostics.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
-		ABAC15607BC1418DB46F8E8C /* FirebaseInstanceID.framework */ = {isa = PBXFileReference; name = "FirebaseInstanceID.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseInstanceID.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
-		CF7248F14C2946B6B44ED1BD /* FirebaseNanoPB.framework */ = {isa = PBXFileReference; name = "FirebaseNanoPB.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseNanoPB.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
-		297E13B768EB4F56AEFDBABD /* GoogleToolboxForMac.framework */ = {isa = PBXFileReference; name = "GoogleToolboxForMac.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/GoogleToolboxForMac.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
-		A1A449648D7144F9BCCD3BF8 /* Protobuf.framework */ = {isa = PBXFileReference; name = "Protobuf.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/Protobuf.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
-		7A12947481FE4C3DA8CCA259 /* FirebaseMessaging.framework */ = {isa = PBXFileReference; name = "FirebaseMessaging.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseMessaging.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
-		012F812A034141BB810863B9 /* FirebaseCrash.framework */ = {isa = PBXFileReference; name = "FirebaseCrash.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseCrash.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
-		244BC1A219114027B53D08C8 /* FirebaseRemoteConfig.framework */ = {isa = PBXFileReference; name = "FirebaseRemoteConfig.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseRemoteConfig.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
-		975D744ACEEB49998E879F6A /* FirebaseAuth.framework */ = {isa = PBXFileReference; name = "FirebaseAuth.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseAuth.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
-		2652FDE128F543EEA6CA350C /* GTMSessionFetcher.framework */ = {isa = PBXFileReference; name = "GTMSessionFetcher.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/GTMSessionFetcher.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
-		6F96E738F0AE4972B7A94D2C /* CDVInAppBrowser.m */ = {isa = PBXFileReference; name = "CDVInAppBrowser.m"; path = "cordova-plugin-inappbrowser/CDVInAppBrowser.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
-		EA6BDDF743884A31A4871367 /* CDVInAppBrowser.h */ = {isa = PBXFileReference; name = "CDVInAppBrowser.h"; path = "cordova-plugin-inappbrowser/CDVInAppBrowser.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		877E12927EF549B0A3CA1D58 /* AppDelegate+FirebasePlugin.m */ = {isa = PBXFileReference; name = "AppDelegate+FirebasePlugin.m"; path = "cordova-plugin-firebase/AppDelegate+FirebasePlugin.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		716E2771A9FF48A59F6F7FC3 /* FirebasePlugin.m */ = {isa = PBXFileReference; name = "FirebasePlugin.m"; path = "cordova-plugin-firebase/FirebasePlugin.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		88DCEFAE3A0B498ABC8F7713 /* AppDelegate+FirebasePlugin.h */ = {isa = PBXFileReference; name = "AppDelegate+FirebasePlugin.h"; path = "cordova-plugin-firebase/AppDelegate+FirebasePlugin.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		43D06BBEFD9F419DB0837499 /* FirebasePlugin.h */ = {isa = PBXFileReference; name = "FirebasePlugin.h"; path = "cordova-plugin-firebase/FirebasePlugin.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		54CE8133E9484371A058AE93 /* Firebase.h */ = {isa = PBXFileReference; name = "Firebase.h"; path = "cordova-plugin-firebase/Firebase.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		EC2BEC5A4C5C450C8BB4A9BD /* GoogleService-Info.plist */ = {isa = PBXFileReference; name = "GoogleService-Info.plist"; path = "GoogleService-Info.plist"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = text.plist.xml; explicitFileType = undefined; includeInIndex = 0; };
+		26899769B3AB4E5ABA41BA9F /* FirebaseAnalytics.framework */ = {isa = PBXFileReference; name = "FirebaseAnalytics.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseAnalytics.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		FA34B66851074DEC93147EAE /* FirebaseCore.framework */ = {isa = PBXFileReference; name = "FirebaseCore.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseCore.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		8EB0C918F7F44D739F9F6B60 /* FirebaseCoreDiagnostics.framework */ = {isa = PBXFileReference; name = "FirebaseCoreDiagnostics.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseCoreDiagnostics.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		7E96ECECD56F4836AC8CC211 /* FirebaseInstanceID.framework */ = {isa = PBXFileReference; name = "FirebaseInstanceID.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseInstanceID.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		B32FAD553A25473CB04119B6 /* FirebaseNanoPB.framework */ = {isa = PBXFileReference; name = "FirebaseNanoPB.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseNanoPB.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		9DA2E78A5C8B45BCBF80C94F /* GoogleToolboxForMac.framework */ = {isa = PBXFileReference; name = "GoogleToolboxForMac.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/GoogleToolboxForMac.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		E2D3463C703940A289461281 /* Protobuf.framework */ = {isa = PBXFileReference; name = "Protobuf.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/Protobuf.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		7E13AEAA93954AF19D8AE95F /* FirebaseMessaging.framework */ = {isa = PBXFileReference; name = "FirebaseMessaging.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseMessaging.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		6DA943C840AD4BAB854018B6 /* FirebaseCrash.framework */ = {isa = PBXFileReference; name = "FirebaseCrash.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseCrash.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		5D262F6915934F44B831C0CF /* FirebaseRemoteConfig.framework */ = {isa = PBXFileReference; name = "FirebaseRemoteConfig.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseRemoteConfig.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		DEA0483ADEB14EC3B0178566 /* FirebaseAuth.framework */ = {isa = PBXFileReference; name = "FirebaseAuth.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/FirebaseAuth.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		8C2131F40EFB414F9BD7A3D2 /* GTMSessionFetcher.framework */ = {isa = PBXFileReference; name = "GTMSessionFetcher.framework"; path = "Otten's Groenten en Fruithandel/Plugins/cordova-plugin-firebase/GTMSessionFetcher.framework"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
+		EB36CF4EF8FB4E15BDEE8730 /* CDVInAppBrowser.m */ = {isa = PBXFileReference; name = "CDVInAppBrowser.m"; path = "cordova-plugin-inappbrowser/CDVInAppBrowser.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		99ADB95209A0437E84F03F46 /* CDVInAppBrowser.h */ = {isa = PBXFileReference; name = "CDVInAppBrowser.h"; path = "cordova-plugin-inappbrowser/CDVInAppBrowser.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,18 +100,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				301BF552109A68D80062928A /* libCordova.a in Frameworks */,
-				AC15802CEA6C47EEB5FD102B /* FirebaseAnalytics.framework in Frameworks */,
-				A4C6B6E285BF4A6F90E4465F /* FirebaseCore.framework in Frameworks */,
-				BD00C33716A34C78912EA9E0 /* FirebaseCoreDiagnostics.framework in Frameworks */,
-				97D08F0D70FB42F9989E7156 /* FirebaseInstanceID.framework in Frameworks */,
-				E8CA4AD7C3FC44F59ED94657 /* FirebaseNanoPB.framework in Frameworks */,
-				AB634351E2894F54AFD54C42 /* GoogleToolboxForMac.framework in Frameworks */,
-				DB410DA103214054A1D1E35A /* Protobuf.framework in Frameworks */,
-				B417026212B94B319FC85076 /* FirebaseMessaging.framework in Frameworks */,
-				AA4975D84F6243D58951DB09 /* FirebaseCrash.framework in Frameworks */,
-				34A327476ACC46B08D9754CD /* FirebaseRemoteConfig.framework in Frameworks */,
-				34112F0B1D184C3DB3441353 /* FirebaseAuth.framework in Frameworks */,
-				C21FD9BC0C994B4BA4C9FCE0 /* GTMSessionFetcher.framework in Frameworks */,
+				C620F6B20C4D47898F63CDF4 /* FirebaseAnalytics.framework in Frameworks */,
+				4745AC4AD2D24590B5507643 /* FirebaseCore.framework in Frameworks */,
+				58DB555A8233430CAA9C589D /* FirebaseCoreDiagnostics.framework in Frameworks */,
+				D0C2A61964F4446C9F4E9E4A /* FirebaseInstanceID.framework in Frameworks */,
+				FD2F3BF121DE4367B1ACA9F5 /* FirebaseNanoPB.framework in Frameworks */,
+				9D6189F95E9E4F0B84120EEE /* GoogleToolboxForMac.framework in Frameworks */,
+				CFCDC8DF5AC843878C73D186 /* Protobuf.framework in Frameworks */,
+				E2C6D259C4914FED97AEB5CF /* FirebaseMessaging.framework in Frameworks */,
+				A3FBB884C5014F969A6C2870 /* FirebaseCrash.framework in Frameworks */,
+				7AF1F88DC11C441C8AE732A8 /* FirebaseRemoteConfig.framework in Frameworks */,
+				80685B08E6A041E7BBD57CAE /* FirebaseAuth.framework in Frameworks */,
+				E5A4EE45AB3E48E5A49E704C /* GTMSessionFetcher.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -174,7 +174,7 @@
 				3047A50E1AB8057F00498E2A /* config */,
 				8D1107310486CEB800E47090 /* Otten's Groenten en Fruithandel-Info.plist */,
 				6AFF5BF81D6E424B00AB3073 /* CDVLaunchScreen.storyboard */,
-				3A17DF6A7DA441A69C2F334D /* GoogleService-Info.plist */,
+				EC2BEC5A4C5C450C8BB4A9BD /* GoogleService-Info.plist */,
 			);
 			name = Resources;
 			path = "Otten's Groenten en Fruithandel/Resources";
@@ -183,18 +183,18 @@
 		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				B2EF85F366694665ACE2B33D /* FirebaseAnalytics.framework */,
-				4111F86F3F6847549B37E13C /* FirebaseCore.framework */,
-				AC23A630D404473881A98E21 /* FirebaseCoreDiagnostics.framework */,
-				ABAC15607BC1418DB46F8E8C /* FirebaseInstanceID.framework */,
-				CF7248F14C2946B6B44ED1BD /* FirebaseNanoPB.framework */,
-				297E13B768EB4F56AEFDBABD /* GoogleToolboxForMac.framework */,
-				A1A449648D7144F9BCCD3BF8 /* Protobuf.framework */,
-				7A12947481FE4C3DA8CCA259 /* FirebaseMessaging.framework */,
-				012F812A034141BB810863B9 /* FirebaseCrash.framework */,
-				244BC1A219114027B53D08C8 /* FirebaseRemoteConfig.framework */,
-				975D744ACEEB49998E879F6A /* FirebaseAuth.framework */,
-				2652FDE128F543EEA6CA350C /* GTMSessionFetcher.framework */,
+				26899769B3AB4E5ABA41BA9F /* FirebaseAnalytics.framework */,
+				FA34B66851074DEC93147EAE /* FirebaseCore.framework */,
+				8EB0C918F7F44D739F9F6B60 /* FirebaseCoreDiagnostics.framework */,
+				7E96ECECD56F4836AC8CC211 /* FirebaseInstanceID.framework */,
+				B32FAD553A25473CB04119B6 /* FirebaseNanoPB.framework */,
+				9DA2E78A5C8B45BCBF80C94F /* GoogleToolboxForMac.framework */,
+				E2D3463C703940A289461281 /* Protobuf.framework */,
+				7E13AEAA93954AF19D8AE95F /* FirebaseMessaging.framework */,
+				6DA943C840AD4BAB854018B6 /* FirebaseCrash.framework */,
+				5D262F6915934F44B831C0CF /* FirebaseRemoteConfig.framework */,
+				DEA0483ADEB14EC3B0178566 /* FirebaseAuth.framework */,
+				8C2131F40EFB414F9BD7A3D2 /* GTMSessionFetcher.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -220,13 +220,13 @@
 		307C750510C5A3420062BCA9 /* Plugins */ = {
 			isa = PBXGroup;
 			children = (
-				DEBBB57F14A14EAD9E0EE8CE /* AppDelegate+FirebasePlugin.m */,
-				7D287C756AEE4846A7239BD0 /* FirebasePlugin.m */,
-				63C2E976964647A9910FFBD5 /* AppDelegate+FirebasePlugin.h */,
-				FC161A5502294A45B13DDB71 /* FirebasePlugin.h */,
-				EEAE72BE744A40D1863D8A36 /* Firebase.h */,
-				6F96E738F0AE4972B7A94D2C /* CDVInAppBrowser.m */,
-				EA6BDDF743884A31A4871367 /* CDVInAppBrowser.h */,
+				877E12927EF549B0A3CA1D58 /* AppDelegate+FirebasePlugin.m */,
+				716E2771A9FF48A59F6F7FC3 /* FirebasePlugin.m */,
+				88DCEFAE3A0B498ABC8F7713 /* AppDelegate+FirebasePlugin.h */,
+				43D06BBEFD9F419DB0837499 /* FirebasePlugin.h */,
+				54CE8133E9484371A058AE93 /* Firebase.h */,
+				EB36CF4EF8FB4E15BDEE8730 /* CDVInAppBrowser.m */,
+				99ADB95209A0437E84F03F46 /* CDVInAppBrowser.h */,
 			);
 			name = Plugins;
 			path = "Otten's Groenten en Fruithandel/Plugins";
@@ -308,7 +308,7 @@
 				302D95F214D2391D003F00A1 /* MainViewController.xib in Resources */,
 				0207DA581B56EA530066E2B4 /* Images.xcassets in Resources */,
 				6AFF5BF91D6E424B00AB3073 /* CDVLaunchScreen.storyboard in Resources */,
-				F864D601C24C439D8508034C /* GoogleService-Info.plist in Resources */,
+				38105A8239B9428C8273A987 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -340,9 +340,9 @@
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* AppDelegate.m in Sources */,
 				302D95F114D2391D003F00A1 /* MainViewController.m in Sources */,
-				8C8B7A17D9DB4F6B99264EA0 /* AppDelegate+FirebasePlugin.m in Sources */,
-				3658AED3B21B4BF3949208BC /* FirebasePlugin.m in Sources */,
-				65EB17244E724AE3805E1E59 /* CDVInAppBrowser.m in Sources */,
+				C93F21321CBB4EEE83794174 /* AppDelegate+FirebasePlugin.m in Sources */,
+				F560175A79B44707A0E9428C /* FirebasePlugin.m in Sources */,
+				7094AC8B9B3A465DBF87613A /* CDVInAppBrowser.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
