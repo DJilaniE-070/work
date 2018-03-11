@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Otten's Groenten en Fruithandel",
+  "short_name": "Otten's Groenten en Fruithandel",
+  "version": "io.ottens.groentenenfruithandel",
+  "description": "De app van Otten's Groenten en Fruithandel.",
+  "author": "Otten's Groenten en fruithandel",
+  "icons": [],
+  "start_url": "index.html"
+}
